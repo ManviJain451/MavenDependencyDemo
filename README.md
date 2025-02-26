@@ -17,8 +17,9 @@ To build and run this project, use the following commands:
 
 ```sh
 mvn clean package
-java -jar target/YOUR_JAR_NAME.jar
+java -jar target/Practise-0.0.1-SNAPSHOT.jar
 ```
+![Output](Images/img.png)
 
 ## Dependencies Used
 
