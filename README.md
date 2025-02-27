@@ -24,7 +24,7 @@ java -jar target/Practise-0.0.1-SNAPSHOT.jar
 ## Dependencies Used
 
 - **Gson** (for JSON parsing)
-- **Custom repository:** JitPack
+- **Custom repository:** JitPack, **Dependency :** joda-time
 - **Different scope dependencies**
 
 ![Output](Images/img_1.png)
