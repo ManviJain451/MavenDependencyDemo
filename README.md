@@ -28,7 +28,7 @@ java -jar target/Practise-0.0.1-SNAPSHOT.jar
 - **Different scope dependencies**
 
 ![Output](Images/img_1.png)
-
+![Output](Images/img_2.png)
 ## JAR Plugin Configuration
 
 This project is configured to generate an executable JAR file using the Maven JAR plugin.
