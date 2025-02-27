@@ -27,6 +27,8 @@ java -jar target/Practise-0.0.1-SNAPSHOT.jar
 - **Custom repository:** JitPack
 - **Different scope dependencies**
 
+![Output](Images/img_1.png)
+
 ## JAR Plugin Configuration
 
 This project is configured to generate an executable JAR file using the Maven JAR plugin.
