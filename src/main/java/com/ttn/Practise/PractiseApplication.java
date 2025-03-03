@@ -21,13 +21,13 @@ public class PractiseApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PractiseApplication.class, args);
 
-		// ✅ Compile-time: Using Gson for JSON conversion
+
 		Admin admin = new Admin("Manvi", "Manvi123@");
 		Gson gson = new Gson();
 		String jsonAdmin = gson.toJson(admin);
 		System.out.println("Admin JSON: " + jsonAdmin);
 
-		// ✅ Runtime: Using Joda-Time to get the current date-time
+
 		DateTime now = new DateTime();
 		System.out.println("Current Date and Time: " + now);
 
